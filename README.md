@@ -39,7 +39,9 @@ Simply replace the files found in the `panel/` directory into your pterodactyl d
 ## Known issues
 In firefox private windows the console text may not render properly as shown below. This is not a theme issue but a much wider issue related to Firefox. 
 
-![issue_1](media/issue_1.PNG "issue_!")
+<p float="center">
+  <img src="media/issue_1.png" width="50%" />
+</p>
 
 ## Contributing
 If you have any issues with this theme feel free to post an issue, and as always feel free to fork this repo and customize it to your liking! 
