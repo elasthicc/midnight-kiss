@@ -1,6 +1,9 @@
+[![Logo Image](https://static.wixstatic.com/media/2fced5_0e8439fd96084eeaab6606645eba6770~mv2.png)](https://elasthi.cc)
+
+[![Discord](https://img.shields.io/discord/1183675601790443530?style=for-the-badge&logo=Discord&logoColor=White&label=Discord&labelColor=white)](https://discord.gg/hnKxCxYE6m)
+
 # Midnight Kiss
-### A theme by elasthicc
-Midnight kiss is a theme for the [Pterodactyl Panel](https://github.com/pterodactyl) developed by the team here at [elasthicc](https://elasthi.cc). This is a dark mode focused theme designed for pterodactyl 1.0+ which includes curated material design colors that are effective and pleasing to the eyes.
+Midnight kiss is a theme for the [Pterodactyl Panel](https://github.com/pterodactyl) developed by the team here at [elasthicc](https://elasthi.cc). This is a dark mode focused theme designed for pterodactyl 1.0+ which includes curated material design colors that are effective and pleasing to the eyes. We decided to keep it simple silly so anyone can add it to their panel. Checkout the [installing](#installing) section if you'd like to install it too!
 
 <p float="center">
   <img src="media/palette.png" width="50%" />
